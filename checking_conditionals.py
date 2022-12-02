@@ -1,5 +1,5 @@
 """ 
--- Task --
+-- Task: Checking whether a statement is true or false allows the code to make intelligent decisions  --
 At your school, the front gate is locked at night for safety. 
 You often need to study late on campus. There is sometimes a 
 night guard on duty who can let you in. You want to be able 
