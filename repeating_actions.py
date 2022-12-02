@@ -1,5 +1,5 @@
 """ 
--- Task --
+-- Task: Repeating an action multiple times is what computers are really good at! --
 Write a program that always asks the user to enter a number.
 When the user enters the negative number -1, the program should
 stop requesting the user to enter a number. The program must then
