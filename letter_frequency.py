@@ -1,5 +1,5 @@
 """ 
--- Task - Analysing the frequency of letters in a string using loops and lists --
+-- Task: Analysing the frequency of letters in a string using loops and lists --
 Frequency analysis is the study of the frequency of letters or combination of 
 letters in encrypted text. Frequency analysis is based on the fact that in a 
 particular language, certain letters, and groups of letters, appear with 
